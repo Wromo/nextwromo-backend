@@ -28,6 +28,9 @@
     "type": "git",
     "url": "git+https://github.com/Ersin84/nextwromo-backend.git"
   },
+  "publishConfig": {
+    "@Ersin84:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "validation",
     "mangodb",
